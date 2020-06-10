@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main()
-{
+{   
+    //int n -- for counting pages
+    //int a[] -- for page number input
+    //int no -- for frame numbers
+    //int f[] -- to show values in the frame
+    
     int i,j,n,a[50],f[10],no,k,avail,count=0;
     printf("\nENTER THE NUMBER OF PAGES:\n");
     scanf("%d",&n);
