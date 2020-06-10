@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "process.h"
+
  
 struct Process{
     int pid,at,bt,tat,ct,rt,wt,scheduled;
